@@ -44,6 +44,7 @@
 }
 .face.front img {
   transition: 0.5s;
+  border-radius: 15px;
 }
 .card:hover .face.front {
   height: 120px;

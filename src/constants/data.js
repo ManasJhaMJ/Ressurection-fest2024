@@ -21,10 +21,10 @@ const wines = [
   //   imgUrl: images.eventsp5,
   //   // price: "$26",
   // },
-  {
-    imgUrl: images.eventsp6,
-    // price: "$26",
-  },
+  // {
+  //   imgUrl: images.eventsp6,
+  //   // price: "$26",
+  // },
   // {
   //   imgUrl: images.eventsp7,
   //   // price: "$26",
@@ -45,10 +45,10 @@ const wines = [
   //   imgUrl: images.eventsp13,
   //   // price: "$26",
   // },
-  {
-    imgUrl: images.eventsp14,
-    // price: "$26",
-  },
+  // {
+  //   imgUrl: images.eventsp14,
+  //   // price: "$26",
+  // },
   {
     imgUrl: images.eventsp15,
     // price: "$26",
@@ -69,14 +69,14 @@ const wines = [
   //   imgUrl: images.eventsp19,
   //   // price: "$26",
   // },
-  {
-    imgUrl: images.eventsp20,
-    // price: "$26",
-  },
   // {
-  //   imgUrl: images.eventsp21,
+  //   imgUrl: images.eventsp20,
   //   // price: "$26",
   // },
+  {
+    imgUrl: images.eventsp21,
+    // price: "$26",
+  },
   {
     imgUrl: images.eventsp23,
     // price: "$26",
@@ -99,6 +99,14 @@ const wines = [
   },
   {
     imgUrl: images.eventsp28,
+    // price: "$26",
+  },
+  {
+    imgUrl: images.eventsp29,
+    // price: "$26",
+  }, 
+  {
+    imgUrl: images.eventsp30,
     // price: "$26",
   },
 
@@ -164,20 +172,21 @@ const awards = [
 
 const teamdata = [
   {
-    title: "Shubh",
-    description: "Fest Head",
-    imgUrl: images.award01,
-  },
-  {
-    title: "Priyanshi",
-    description: "Fest Head",
-    imgUrl: images.award02,
-  },
-  {
     title: "Vaibhav",
     description: "Fest Head",
     imgUrl: images.vaibhav_bhar,
   },
+  {
+    title: "Shubh",
+    description: "Fest Head",
+    imgUrl: images.award01,
+  },
+  // {
+  //   title: "Priyanshi",
+  //   description: "Fest Head",
+  //   imgUrl: images.award02,
+  // },
+
   {
     title: "Bhavesh",
     description: "Fest Head",
@@ -297,12 +306,12 @@ const teamdata = [
     imgUrl: images.pallavi,
   },
   {
-    title: "Bhuvnesh sharma",
+    title: "Bhuvnesh Sharma",
     description: "Technical Head",
     imgUrl: images.award01,
   },
   {
-    title: "Mukul",
+    title: "Shubhang Singh",
     description: "Technical Head",
     imgUrl: images.award02,
   },
@@ -317,7 +326,7 @@ const teamdata = [
     imgUrl: images.award02,
   },
   {
-    title: "Shubhang Singh",
+    title: "Mukul Sharma",
     description: "Web Developer",
     imgUrl: images.award02,
   },
@@ -434,11 +443,11 @@ const eventDomains = [
     moreInfo:"https://drive.google.com/drive/folders/1gwoVqI6juuabjyP3pH1B-omxzqBQZEuP?usp=share_link",
     registration:"https://forms.gle/QTG3EwWK2upyvd3n9",
   },
-  {
-    imgUrl: images.eventd6,
-    moreInfo:"https://drive.google.com/drive/folders/1YriFqBRz2OYhovT3qjufclgicOlmVLQX?usp=share_link",
-    registration:"https://forms.gle/bdtvac1dPbySd1YLA",
-  },
+  // {
+  //   imgUrl: images.eventd6,
+  //   moreInfo:"https://drive.google.com/drive/folders/1YriFqBRz2OYhovT3qjufclgicOlmVLQX?usp=share_link",
+  //   registration:"https://forms.gle/bdtvac1dPbySd1YLA",
+  // },
   {
     imgUrl: images.eventd7,
     moreInfo:"https://drive.google.com/drive/folders/1QVyRPjMJxutgasY9zBZVwD2t3O8J8ykw?usp=share_link",
@@ -447,12 +456,13 @@ const eventDomains = [
   {
     imgUrl: images.eventd8,
     moreInfo:"https://drive.google.com/drive/folders/1zeIR66T5I_OX_J9yN79B7Wv7IMd9ys2B?usp=share_link",
-    registration:"https://forms.gle/4AXpV8TcWhva3bvU6",
+    registration:"https://forms.gle/2KDYuBrxpAwDF2Cm8",
   },
   {
     imgUrl: images.eventd9,
     moreInfo:"https://drive.google.com/drive/folders/1R-ivAejY7Rt76dPjBgy4SE8nYMIM-S72?usp=share_link",
-    registration:"https://forms.gle/2KDYuBrxpAwDF2Cm8",
+    registration:"https://forms.gle/4AXpV8TcWhva3bvU6",
+    
   },
 ];
 

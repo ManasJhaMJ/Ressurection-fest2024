@@ -83,41 +83,41 @@ import sponser25 from "../assets/Logos/UM.png";
 import sponser26 from "../assets/Logos/Volkswagen.png";
 import sponser27 from "../assets/Logos/Yippy.png";
 import eventsp1 from "../assets/compresspng/4.png";
-import eventsp2 from "../assets/compresspng/5.png";
-import eventsp3 from "../assets/compresspng/6.png";
-import eventsp4 from "../assets/compresspng/7.png";
+import eventsp2 from "../assets/compresspng/5.webp";
+import eventsp3 from "../assets/compresspng/6.webp";
+import eventsp4 from "../assets/compresspng/7.webp";
 // import eventsp5 from "../assets/compresspng/8.png";
-import eventsp6 from "../assets/compresspng/9.png";
+// import eventsp6 from "../assets/compresspng/9.webp";
 // import eventsp7 from "../assets/compresspng/10.png";
-import eventsp10 from "../assets/compresspng/11.png";
+import eventsp10 from "../assets/compresspng/11.webp";
 // import eventsp11 from "../assets/compresspng/12.png";
-import eventsp12 from "../assets/compresspng/13.png";
+import eventsp12 from "../assets/compresspng/13.webp";
 // import eventsp13 from "../assets/compresspng/14.png";
-import eventsp14 from "../assets/compresspng/15.png";
-import eventsp15 from "../assets/compresspng/16.png";
-import eventsp16 from "../assets/compresspng/17.png";
+// import eventsp14 from "../assets/compresspng/15.png";
+import eventsp15 from "../assets/compresspng/16.webp";
+import eventsp16 from "../assets/compresspng/18.webp";
 // import eventsp17 from "../assets/compresspng/18.png";
-import eventsp18 from "../assets/compresspng/19.png";
+import eventsp18 from "../assets/compresspng/19.webp";
 // import eventsp19 from "../assets/compresspng/20.png";
-import eventsp20 from "../assets/compresspng/21.png";
-// import eventsp21 from "../assets/compresspng/22.png";
-// import eventsp22 from "../assets/compresspng/23.png";
-import eventd1 from "../assets/fest_1.png";
-import eventd2 from "../assets/fest_2.png";
-import eventd3 from "../assets/fest_3.png";
-import eventd4 from "../assets/fest_4.png";
-import eventd5 from "../assets/fest_5.png";
-import eventd6 from "../assets/fest_6.png";
-import eventd7 from "../assets/fest_7.png";
+
+import eventsp21 from "../assets/compresspng/22.webp";
+// import eventsp22 from "../assets/compresspng/24.png";
+import eventd1 from "../assets/fest_1.webp";
+import eventd2 from "../assets/fest_2.webp";
+import eventd3 from "../assets/fest_3.webp";
+import eventd4 from "../assets/fest_4.webp";
+import eventd5 from "../assets/fest_5.webp";
+// import eventd6 from "../assets/fest_6.png";
+import eventd7 from "../assets/fest_7.webp";
 import eventd8 from "../assets/fest_8.png";
-import eventd9 from "../assets/fest_9.png";
-import eventsp23 from "../assets/compresspng/24.png";
-import eventsp25 from "../assets/compresspng/26.png";
-import eventsp26 from "../assets/compresspng/27.png";
-import eventsp27 from "../assets/compresspng/28.png";
-import eventsp28 from "../assets/compresspng/29.png";
-
-
+import eventd9 from "../assets/fest_9.webp";
+import eventsp23 from "../assets/compresspng/24.webp";
+import eventsp25 from "../assets/compresspng/26.webp";
+import eventsp26 from "../assets/compresspng/27.webp";
+import eventsp27 from "../assets/compresspng/28.webp";
+import eventsp28 from "../assets/compresspng/31.webp";
+import eventsp29 from "../assets/compresspng/34.webp";
+import eventsp30 from "../assets/compresspng/35.webp";
 
 export default {
   eventsp1,
@@ -125,32 +125,34 @@ export default {
   eventsp3,
   eventsp4,
   // eventsp5,
-  eventsp6,
+  // eventsp6,
   // eventsp7,
   eventsp10,
   // eventsp11,
   eventsp12,
   // eventsp13,
-  eventsp14,
+  // eventsp14,
   eventsp15,
   eventsp16,
   // eventsp17,
   eventsp18,
   // eventsp19,
-  eventsp20,
-  // eventsp21,
+  // eventsp20,
+  eventsp21,
   // eventsp22,
   eventsp23,
   eventsp25,
   eventsp26,
   eventsp27,
   eventsp28,
+  eventsp29,
+  eventsp30,
   eventd1,
   eventd2,
   eventd3,
   eventd4,
   eventd5,
-  eventd6,
+  // eventd6,
   eventd7,
   eventd8,
   eventd9,
